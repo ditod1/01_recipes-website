@@ -1,6 +1,6 @@
 # recipes-website
 
-live: https://ditod1.github.io/recipes-website/
+live: https://ditod1.github.io/01_recipes-website/
 
 Odin recipes is a website where you'll find popular and
 traditional Colombian food recipes. 
